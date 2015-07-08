@@ -1,7 +1,7 @@
 Software
 ========
 
-Software used for setting up gamemodes
+Software used for setting up gamemodes for AOLT.
 
 IDE: Netbeans 8.0  
 Using jssc 2.8.0 for serial handling https://code.google.com/p/java-simple-serial-connector/
